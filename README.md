@@ -37,9 +37,7 @@ O objetivo foi aplicar as etapas de:
 
 ## 🚀 Execução
 
-O notebook foi desenvolvido no **Google Colab** e está pronto para execução.  
-Certifique-se que as URLs dos arquivos CSV estão no formato RAW no GitHub.
-
+desenvolvido no **Google Colab** 
 ---
 
 ## 👨‍🎓 Autor
